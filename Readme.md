@@ -130,8 +130,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🧑‍💻 Connect with Me
 For any queries, feel free to reach out:
-- **Email:** [your.email@example.com](mailto:abiramikayathiri@nscet.org)
-- **GitHub:** [yourusername](https://github.com/abirami2603)
+- **Email:** [Abirami Kayathiri](mailto:abiramikayathiri@nscet.org)
+- **GitHub:** [Abirami Kayathiri](https://github.com/abirami2603)
 
 
 
